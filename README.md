@@ -11,6 +11,7 @@ I work with Ari, an AI partner I've built alongside my other projects. She pulls
 - [The Right Move That Hurts You](npm-worm-right-move-that-hurts-you.md) — the Shai-Hulud npm worm (tensorlake 0.5.144), where revoking the stolen token first can trigger a wipe of your home directory. Lesson: response order matters — isolate, kill the persistence, then rotate.
 - [Hunting When No Alert Fires](volt-typhoon-hunting-no-alert.md) — Volt Typhoon hunted blind across four platforms on linked telemetry alone. Lesson: when nothing alerts, connected evidence is all you have. Vendor-sponsored research, and the paper says so.
 - [Your Server Works for Somebody Else Now](poellm-your-server-works-for-somebody-else.md) — PoeLLM: 3,400+ exposed AI and LLM servers quietly mining for somebody else, then used as scanners. Lesson: exposure isn't the scandal; unmanaged exposure is.
+- [Binding Laws from Day One](binding-laws-from-day-one.md) — a builder's account of constraining AI agents before they act: laws baked in from day one, the gate that decides, four case studies including the mistake we caught, and the objections answered. Lesson: stop bolting the laws on after.
 
 ## For recruiters
 
