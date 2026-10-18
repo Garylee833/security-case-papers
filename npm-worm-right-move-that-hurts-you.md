@@ -76,5 +76,3 @@ I didn't read the reporting and write this in one sitting. I work with Ari — a
 I'd rather say that out loud than pretend otherwise. The work is mine. So is saying who helped.
 
 Sources: OX Security reporting on the Shai-Hulud / tensorlake 0.5.144 compromise (October 2026).
-
-Ben's verdict: (blank)

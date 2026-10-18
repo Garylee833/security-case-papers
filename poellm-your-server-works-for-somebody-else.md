@@ -77,5 +77,3 @@ I didn't read the reporting and write this in one sitting. I work with Ari — a
 I'd rather say that out loud than pretend otherwise. The work is mine. So is saying who helped.
 
 Sources: The Hacker News, PoeLLM / Canto Incognito campaign reporting (October 7, 2026, with subsequent disruption update).
-
-Ben's verdict: (blank)

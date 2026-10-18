@@ -23,5 +23,3 @@ I work with Ari, an AI partner I've built alongside my other projects. She pulls
 - Confirmed and claimed never share a pile; every claim travels with its source.
 - No live malware, ever. Fingerprints and documentation only.
 - If a paper's wrong, it gets corrected in the open, in the same file.
-
-*Verdicts are mine and get filled in as the stories finish. A blank verdict means I'm still watching, not that I forgot.*

@@ -71,5 +71,3 @@ I didn't read the report and write this in one sitting. I work with Ari — an A
 I'd rather say that out loud than pretend otherwise. The work is mine. So is saying who helped.
 
 Sources: Corelight / Intel 471 public telemetry-validation report on the Volt Typhoon emulation exercise (2026).
-
-Ben's verdict: (blank)

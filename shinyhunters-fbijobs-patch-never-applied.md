@@ -68,5 +68,3 @@ I didn't read six news sites and write this in one sitting. I work with Ari — 
 I'd rather say that out loud than pretend otherwise. The work is mine. So is saying who helped.
 
 Sources: CNN (2026-10-09); Reuters (2026-10-09 and earlier); USA Today (2026-10-09); Nextgov/FCW (October 2026); FBI statements as quoted in those reports.
-
-Ben's verdict: (blank)
