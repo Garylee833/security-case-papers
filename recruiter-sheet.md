@@ -42,5 +42,3 @@ Pre-test before anything goes live. A fix isn't done until its regression test f
 I build with an AI partner named Ari, and I say so up front: she helps with research, drafting, and double-checking. Every judgment call, every line of shipped code, and every verdict is mine, and I can whiteboard any of it.
 
 *Happy to walk through any project above in depth — how it works, where it's weak, and what I'd build next.*
-
-Ben's verdict: (blank)
