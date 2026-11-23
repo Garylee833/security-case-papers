@@ -1,10 +1,10 @@
 # When the Machine Starts Pricing You
 
-Author: Ben Lee
+Author: Gary Lee
 Verdict: BLANK
 Status: Published November 23, 2026 — GitHub (Garylee833 / security-case-papers)
 Threat level: Medium-High
-Grade: Medium-High (accepted by Ben 2026-11-23)
+Grade: Medium-High (accepted by Gary Lee 2026-11-23)
 
 Plain-language disclaimer: as-is, no warranty, verify-before-trust. This paper is built from the Cisco Talos report I have read in full. That report rests on one sample. A claim stands only at the weight its evidence bears. Where I am leaning and not certain, I say so.
 
