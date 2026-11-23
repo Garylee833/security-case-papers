@@ -13,6 +13,7 @@ I work with Ari, an AI partner I've built alongside my other projects. She pulls
 - [Your Server Works for Somebody Else Now](poellm-your-server-works-for-somebody-else.md) — PoeLLM: 3,400+ exposed AI and LLM servers quietly mining for somebody else, then used as scanners. Lesson: exposure isn't the scandal; unmanaged exposure is.
 - [Binding Laws from Day One](binding-laws-from-day-one.md)
 - [Six Days to Break Chrome](xbow-chrome-six-days.md) — XBOW chained three Chrome zero-days into a full sandbox escape in six days with a public AI model and $40,000 in API calls. Lesson: the discovery bar dropped through the floor; the patching bar did not. — a builder's account of constraining AI agents before they act: laws baked in from day one, the gate that decides, four case studies including the mistake we caught, and the objections answered. Lesson: stop bolting the laws on after.
+- [When the Machine Starts Pricing You](volta-autodoxer.md) — VOLTA: a Windows stealer that feeds what it stole to a language model and asks it to rank what it is worth. Lesson: the model is the appraiser, not the burglar; stop it at the theft, not the ranking.
 
 ## For recruiters
 
